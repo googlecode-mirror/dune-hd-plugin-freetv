@@ -1,0 +1,5 @@
+version_index=4
+version=1.0.6
+download_url=http://dune-hd-plugin-freetv.googlecode.com/svn/trunk/update.tgz
+space_needed=400000
+last_critical_version_index=1
